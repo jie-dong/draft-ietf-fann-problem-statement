@@ -9,26 +9,26 @@ number:
 date:
 consensus: true
 v: 3
-area: RTG
-workgroup: GEN
+area: "Routing"
+workgroup: "Fast Network Notifications"
 keyword:
  - next generation
  - unicorn
  - AI-native
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Fast Network Notifications"
+  type: "Working Group"
+  mail: "fann@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/fann"
+  github: "jie-dong/draft-ietf-fann-problem-statement"
+  latest: "https://jie-dong.github.io/draft-ietf-fann-problem-statement/draft-dong-fann-problem-statement.html"
 
 author:
  -
     fullname: Jie Dong
     organization: Huawei Technologies
     email: jie.dong@huawei.com
-    
+
 
 normative:
 
