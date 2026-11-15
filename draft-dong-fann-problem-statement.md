@@ -30,7 +30,7 @@ date:
 consensus: true
 v: 3
 area: RTG
-workgroup: FANN
+workgroup: GEN
 keyword:
  - next generation
  - unicorn
