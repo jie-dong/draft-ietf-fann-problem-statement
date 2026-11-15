@@ -45,11 +45,11 @@ venue:
 
 author:
  -
-    fullname: Jie Dong (editor)
+    fullname: Jie Dong
     organization: Huawei Technologies
     email: jie.dong@huawei.com
 -
-    fullname: Mike McBride (editor)
+    fullname: Mike McBride
     organization: Futurewei
     email: mmcbride7@gmail.com
     
