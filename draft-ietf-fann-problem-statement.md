@@ -19,18 +19,18 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Fast Network Notifications Problem Statement"
+abbrev: "FANN Problem Statement"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-ietf-fann-problem-statement-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: RTG Area
+workgroup: FANN Working Group
 keyword:
  - next generation
  - unicorn
@@ -45,9 +45,14 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Jie Dong (editor)
+    organization: Huawei Technologies
+    email: jie.dong@huawei.com
+-
+    fullname: Mike McBride (editor)
+    organization: Futurewei
+    email: mmcbride7@gmail.com
+    
 
 normative:
 
