@@ -23,7 +23,7 @@ title: "Fast Network Notifications Problem Statement"
 abbrev: "FANN Problem Statement"
 category: info
 
-docname: draft-ietf-fann-problem-statement-latest
+docname: draft-dong-fann-problem-statement-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
