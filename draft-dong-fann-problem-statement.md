@@ -48,10 +48,6 @@ author:
     fullname: Jie Dong
     organization: Huawei Technologies
     email: jie.dong@huawei.com
--
-    fullname: Mike McBride
-    organization: Futurewei
-    email: mmcbride7@gmail.com
     
 
 normative:
